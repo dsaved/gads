@@ -1,0 +1,3 @@
+include ':app'
+include ':alert'
+rootProject.name = "GADS Leaderboard"

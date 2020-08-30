@@ -1,0 +1,17 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ontbee.legacyforks.cn.pedant.SweetAlert"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+7-->C:\Users\dsave\Documents\developments\android\gads\alert\src\main\AndroidManifest.xml:6:1-42
+8        android:minSdkVersion="21"
+8-->C:\Users\dsave\Documents\developments\android\gads\alert\src\main\AndroidManifest.xml:6:1-42
+9        android:targetSdkVersion="30" />
+9-->C:\Users\dsave\Documents\developments\android\gads\alert\src\main\AndroidManifest.xml:6:11-40
+10
+11    <application />
+11-->C:\Users\dsave\Documents\developments\android\gads\alert\src\main\AndroidManifest.xml:8:1-16
+12
+13</manifest>
