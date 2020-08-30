@@ -18,4 +18,4 @@ This project made me understand:
 
 ## Project Designs and Flow 
 
-![image](app.png)
+![image](app.jpg)
